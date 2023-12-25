@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+/home/joestan/stanleypadconfig/StanleyQuickTrackSplit/venv/bin/python3 /home/joestan/stanleypadconfig/StanleyQuickTrackSplit/main.py $@
